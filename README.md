@@ -136,8 +136,8 @@ lightwind-weather/
 
 如有任何问题或建议，请通过以下方式联系我：
 
-- 邮箱：your.email@example.com
-- GitHub：[你的GitHub用户名](https://github.com/yourusername)
+- 邮箱：mengsec88@gmail.com
+- GitHub：[Mengsec123](https://github.com/mengsec123)
 
 ---
 
@@ -147,4 +147,4 @@ lightwind-weather/
 
 ---
 
-Made with ❤️ by [你的名字] 
+Made with ❤️ by [mengsec123] 
